@@ -30,4 +30,4 @@ I’m continuously expanding my knowledge of:
 Feel free to reach out if you're interested in collaboration, discussing backend architecture, or learning more about my projects. 
 
 - [LinkedIn](https://www.linkedin.com/in/yordie-broothaerts-6434ab23b/)
-- [Email](yordie2203@gmail.com)
+- [Email](mailto:yordie2203@gmail.com)
