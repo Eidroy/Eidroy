@@ -5,7 +5,7 @@ I'm a **full stack developer** with a heavy focus on backend development. My exp
 ## 🔧 Technologies & Tools
 
 ### Backend
-- **Languages**: TypeScript, JavaScript, Dart, PHP
+- **Languages**: TypeScript, JavaScript, PHP
 - **Frameworks**: Node.js, Express.js, AWS Lambda (Serverless), Laravel, Symfony
 - **Databases**: DynamoDB, PostgreSQL, MongoDB, MariaDB
 - **Cloud**: AWS (Lambda, S3), Serverless Framework, Amplify (Environment management)
